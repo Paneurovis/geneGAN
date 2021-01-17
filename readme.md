@@ -4,7 +4,7 @@ Considering a biometrics is defined by gene, how could we discover the underlyin
 
 
 ### Archtecture of geneGAN
-<img src="images/Face2Gene.png" width="320" />
+<img src="Face2Gene.png" width="320" />
 
 
 ### Evaluation Results
